@@ -1,0 +1,46 @@
+dbus-x11
+gstreamer1.0-alsa
+gstreamer1.0-gl
+gstreamer1.0-gtk3
+gstreamer1.0-libav
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly
+gstreamer1.0-pulseaudio
+gstreamer1.0-qt5
+gstreamer1.0-tools
+gstreamer1.0-x
+libasound2 (>= 1.0.16)
+libc6 (>= 2.29)
+libcap2-bin
+libcurl4 (>= 7.16.2)
+libdc1394-25 (>= 2.2.6)
+libevent-2.1-7
+libfontconfig1 (>= 2.12.6)
+libgcc-s1 (>= 3.4)
+libgl1
+libgomp1 (>= 4.4)
+libgstreamer1.0-0
+libgstrtspserver-1.0-0
+libgtk2.0-0
+libice6 (>= 1:1.0.0)
+libopengl0
+libpcre2-16-0
+libraw1394-11
+libsm6
+libssl3 (>= 3.0.2)
+libstdc++6 (>= 9)
+libusb-1.0-0 (>= 2:1.0.9)
+libx11-6
+libx11-xcb1 (>= 2:1.6.9)
+libxcb-cursor0
+libxcb-icccm4
+libxcb-keysyms1 (>= 0.4.0)
+libxcb-xinerama0
+libxcb-xkb1
+libxerces-c3.2
+libxext6
+libxkbcommon-x11-0
+libxml2 (>= 2.7.4)
+libxrender1
